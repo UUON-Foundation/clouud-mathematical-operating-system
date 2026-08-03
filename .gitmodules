@@ -1,0 +1,12 @@
+[submodule "engines/wave-field-3d"]
+	path = engines/wave-field-3d
+	url = https://github.com/UUON-Foundation/wave-field-3d-engine
+[submodule "engines/pythagorean-graph"]
+	path = engines/pythagorean-graph
+	url = https://github.com/UUON-Foundation/pythagorean-graph-engine
+[submodule "engines/recursive-fractal"]
+	path = engines/recursive-fractal
+	url = https://github.com/UUON-Foundation/recursive-fractal-engine
+[submodule "engines/pscience"]
+	path = engines/pscience
+	url = https://github.com/UUON-Foundation/pscience-perception-engine
