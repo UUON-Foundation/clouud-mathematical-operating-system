@@ -10,3 +10,12 @@
 [submodule "engines/pscience"]
 	path = engines/pscience
 	url = https://github.com/UUON-Foundation/pscience-perception-engine
+[submodule "engines/compression-field"]
+	path = engines/compression-field
+	url = https://github.com/UUON-Foundation/compression-field-engine
+[submodule "engines/amazing-family"]
+	path = engines/amazing-family
+	url = https://github.com/UUON-Foundation/mandelbox-amazing-family-engine
+[submodule "engines/hydrogenoid-atom"]
+	path = engines/hydrogenoid-atom
+	url = https://github.com/UUON-Foundation/Hydrogenoid-Atom-Engine
